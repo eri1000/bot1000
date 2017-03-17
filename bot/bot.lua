@@ -94,19 +94,19 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v3
+    info_text = [[》erfan.ir v3
 
 🔰Our channel :
-》@permag_bots《
+》@Erfan_herkuless_051《
 
 🔰Our channel2 :
-》@permag_ir《
+》@Erfan_herkuless_051r《
 
 🔰Our channel3 :
-》@permag《
+》@Erfan_herkuless_051《
 
 🔰Our website :
-》http://permag.ir
+》http://erfan.ir
 ]],
   }
   serialize_to_file(config, './data/config.lua')
